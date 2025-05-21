@@ -1,0 +1,729 @@
+# Translation of Plugins - Ultimate Blocks &#8211; WordPress Blocks Plugin - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Ultimate Blocks &#8211; WordPress Blocks Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-11-10 18:09:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Ultimate Blocks &#8211; WordPress Blocks Plugin - Stable (latest release)\n"
+
+#: dist/blocks/counter/block.json src/blocks/counter/block.json
+msgctxt "block keyword"
+msgid "ultimate counter"
+msgstr "contatore ultimate"
+
+#: dist/blocks/counter/block.json src/blocks/counter/block.json
+msgctxt "block keyword"
+msgid "counter"
+msgstr "contatore"
+
+#: dist/blocks/counter/block.json src/blocks/counter/block.json
+msgctxt "block title"
+msgid "Counter"
+msgstr "Contatore"
+
+#: admin/data/Settings_Menu_Content_Data.php:63
+msgid "Global control allows users to easily enable or disable all available blocks together, simplifying block management"
+msgstr "Il controllo globale consente agli utenti di abilitare o disabilitare facilmente tutti i blocchi disponibili insieme, semplificando la gestione dei blocchi."
+
+#: admin/data/Settings_Menu_Content_Data.php:62
+#: admin/data/Settings_Menu_Content_Data.php:69
+msgid "Global Control"
+msgstr "Controllo globale"
+
+#: admin/data/Settings_Menu_Content_Data.php:56
+msgid "Unlock a world of enhanced capabilities and premium functionalities with Ultimate Blocks Pro. Upgrading allows you to access advanced tools and take your content to new heights. Experience the full potential of Ultimate Blocks Pro by upgrading now!"
+msgstr "Sblocca un mondo di capacità migliorate e funzionalità premium con Ultimate Blocks Pro. L'aggiornamento ti permette di accedere a strumenti avanzati e di portare i tuoi contenuti a nuovi livelli. Scopri il pieno potenziale di Ultimate Blocks Pro effettuando l'aggiornamento ora!"
+
+#: admin/data/Settings_Menu_Content_Data.php:55
+msgid "Upgrade to Ultimate Blocks PRO!"
+msgstr "Aggiorna a Ultimate Blocks PRO!"
+
+#: admin/data/Settings_Menu_Content_Data.php:49
+msgid "Join our community forums to connect with other users and share your experiences."
+msgstr "Unisciti ai forum della nostra comunità per entrare in contatto con altri utenti e condividere le tue esperienze."
+
+#: admin/data/Settings_Menu_Content_Data.php:48
+msgid "Community"
+msgstr "Community"
+
+#: admin/data/Settings_Menu_Content_Data.php:42
+msgid "Need help or have questions? Our support team is here to assist you."
+msgstr "Hai bisogno di aiuto o hai una domanda? Il nostro team è qua per assisterti."
+
+#: admin/data/Settings_Menu_Content_Data.php:41
+msgid "Support"
+msgstr "Supporto"
+
+#: admin/data/Settings_Menu_Content_Data.php:35
+msgid "Find detailed documentation and usage instructions for all Ultimate Blocks features."
+msgstr "Consulta la documentazione dettagliata e le istruzioni per l'uso di tutte le caratteristiche di Ultimate Blocks."
+
+#: admin/data/Settings_Menu_Content_Data.php:34
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: admin/data/Settings_Menu_Content_Data.php:30
+msgid "Welcome to Ultimate Blocks"
+msgstr "Benvenuto ad Ultimate Blocks"
+
+#: admin/data/Settings_Menu_Content_Data.php:23
+msgid "All the essential Gutenberg blocks you need in one plugin! Ultimate Blocks comes with blocks to take your content to the next level!"
+msgstr "Tutti i blocchi Gutenberg essenziali di cui hai bisogno in un unico plugin! Ultimate Blocks è dotato di blocchi per portare i tuoi contenuti al livello successivo!"
+
+#: admin/class-ultimate-blocks-admin.php:323
+msgid "Block name is not supplied"
+msgstr "Il nome del blocco non è fornito"
+
+#: admin/class-ultimate-blocks-admin.php:310
+msgid "Invalid JSON object supplied for block names."
+msgstr "Oggetto JSON non valido fornito per i nomi dei blocchi."
+
+#: includes/pro_manager/extensions/Table_Of_Contents_Extension.php:55
+msgid "Hide On Mobile"
+msgstr "Nascondi nei mobile"
+
+#: includes/pro_manager/extensions/Table_Of_Contents_Extension.php:53
+#: includes/pro_manager/extensions/Table_Of_Contents_Extension.php:68
+msgid "Sticky"
+msgstr "Fissa"
+
+#: includes/pro_manager/extensions/Table_Of_Contents_Extension.php:38
+msgid "Make table of content sticky when it will scrolled up from the screen and very flexible to change its position left to right."
+msgstr "Rendi l'indice in evidenza quando viene fatto scorrere verso l'alto dallo schermo e molto flessibile per cambiare la sua posizione da sinistra a destra."
+
+#: includes/pro_manager/extensions/Table_Of_Contents_Extension.php:37
+msgid "Sticky Table Of Content"
+msgstr "Indice in evidenza"
+
+#: includes/pro_manager/extensions/Advanced_Video_Extension.php:33
+msgid "Add youtube channel details, which includes youtube channel logo, channel name, and subscribe button."
+msgstr "Aggiungi i dettagli del canale youtube, che includono il logo del canale youtube, il nome del canale e il pulsante di iscrizione."
+
+#: includes/pro_manager/extensions/Advanced_Video_Extension.php:32
+#: includes/pro_manager/extensions/Advanced_Video_Extension.php:55
+msgid "Channel Details"
+msgstr "Dettagli canale"
+
+#: includes/pro_manager/blocks/coupon/Coupon_Pro_Block.php:51
+msgid "Enhance engagement and sales by easily displaying enticing discounts."
+msgstr "Aumenta il coinvolgimento e le vendite visualizzando facilmente sconti allettanti."
+
+#: includes/pro_manager/blocks/coupon/Coupon_Pro_Block.php:33
+msgid "coupon"
+msgstr "codice sconto"
+
+#: includes/pro_manager/extensions/Post_Grid_Extension.php:55
+msgid "Post"
+msgstr "Articolo"
+
+#: includes/pro_manager/extensions/Post_Grid_Extension.php:55
+msgid "Page"
+msgstr "Pagina"
+
+#: includes/pro_manager/extensions/Visibility_Control_Extension.php:56
+msgid "User"
+msgstr "Utente"
+
+#: includes/Ultimate_Blocks_Version_Control.php:241
+msgid "An error occurred while fetching wp-table-builder versions, please try again later"
+msgstr "Si è verificato un errore durante il recupero delle versioni di wp-table-builder, riprova più tardi"
+
+#: includes/common/base/Version_Sync_Base.php:225
+msgid "Version mismatch: Version %s is not available for %s."
+msgstr "Versione non corrispondente: la versione %s non è disponibile per %s."
+
+#: includes/common/base/Version_Sync_Base.php:216
+msgid "Version mismatch: Version %s is not available for  %s, please check for an update later."
+msgstr "Versione non corrispondente: la versione %s non è disponibile per  %s, riprova più tardi per un aggiornamento."
+
+#: includes/pro_manager/extensions/Expand_Extension.php:67
+msgid "Styles"
+msgstr "Stili"
+
+#: includes/Static_Styles_Manager.php:360
+msgid "invalid parameters supplied for request"
+msgstr "parametri non validi forniti per la richiesta"
+
+#: includes/Static_Styles_Manager.php:353
+msgid "invalid property supplied"
+msgstr "proprietà fornita non valida"
+
+#: includes/Static_Styles_Manager.php:312
+msgid "static style values"
+msgstr "valori stile statico"
+
+#: includes/Static_Styles_Manager.php:304
+msgid "static style id"
+msgstr "id stile statico"
+
+#: includes/Static_Styles_Manager.php:296
+msgid "static style name"
+msgstr "nome stile statico"
+
+#: includes/Static_Styles_Manager.php:284
+msgid "static style save operation failed"
+msgstr "l'operazione di salvataggio dello stile statico è fallita"
+
+#: includes/Static_Styles_Manager.php:281
+msgid "static style saved"
+msgstr "stile statico salvato"
+
+#: includes/Static_Styles_Manager.php:188
+msgid "no valid block type/style found with the given arguments"
+msgstr "non è stato trovato un tipo/stile di blocco valido con gli argomenti forniti"
+
+#: includes/Static_Styles_Manager.php:184
+msgid "static style remove operation failed"
+msgstr "operazione di rimozione dello stile statico non riuscita"
+
+#: includes/Static_Styles_Manager.php:181
+msgid "static style removed"
+msgstr "stile statico rimosso"
+
+#: includes/Static_Styles_Manager.php:152
+#: includes/Static_Styles_Manager.php:320
+msgid "block type"
+msgstr "tipo blocco"
+
+#: includes/Static_Styles_Manager.php:144
+msgid "static style id to be removed"
+msgstr "id dello stile statico da rimuovere"
+
+#: includes/Saved_Styles_Manager.php:109
+msgid "invalid request method"
+msgstr "metodo richiesta non valido"
+
+#: includes/pro_manager/extensions/Table_Of_Contents_Extension.php:59
+msgid "Current icon"
+msgstr "Icona attuale"
+
+#: includes/pro_manager/extensions/Table_Of_Contents_Extension.php:33
+msgid "Add icons to your table of contents sections for better visual identification."
+msgstr "Aggiungi icone alle sezioni dell'indice per una migliore identificazione visiva."
+
+#: includes/pro_manager/extensions/Table_Of_Contents_Extension.php:32
+msgid "Section Icons"
+msgstr "Icone della sezione"
+
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:72
+msgid "Tab title icons"
+msgstr "Icone del titolo scheda"
+
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:70
+msgid "Tab title secondary text"
+msgstr "Testo secondario del titolo scheda"
+
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:62
+msgid "Call to action tab will direct your users to assigned url instead of showing a tab content."
+msgstr "La scheda richiesta di azione indirizzerà gli utenti all'URL assegnato, invece di mostrare il contenuto della scheda."
+
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:62
+msgid "Convert current tab into call to action"
+msgstr "Converti la scheda attuale in una richiesta di azione"
+
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:44
+msgid "Add icons to your tab headers, making it easier for your users to quickly identify and navigate to the content they're looking for."
+msgstr "Aggiungi icone agli header delle schede, rendendo più facile per gli utenti identificare e navigare rapidamente verso i contenuti che stanno cercando."
+
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:43
+msgid "Tab Title Icons"
+msgstr "Icone del titolo scheda"
+
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:39
+msgid "Elevate your website's user experience with secondary tab headers, allowing for easy differentiation between tabs and ensuring your users find the content they need quickly and efficiently."
+msgstr "Migliora l'esperienza dell'utente del tuo sito web con gli header secondari delle schede, consentendo una facile differenziazione tra le schede e assicurando agli utenti di trovare i contenuti di cui hanno bisogno in modo rapido ed efficiente."
+
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:38
+msgid "Tab Title Secondary Text"
+msgstr "Testo secondario del titolo scheda"
+
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:34
+msgid "Transform your tab headers into clickable buttons that redirect to your desired web page  and simplify your visitors's journey by directing them straight to your desired pages."
+msgstr "Trasforma gli header delle schede in pulsanti cliccabili che reindirizzano alla pagina web desiderata e semplifica il percorso dei visitatori indirizzandoli direttamente alle pagine desiderate."
+
+#: includes/pro_manager/extensions/Saved_Styles_Common.php:21
+msgid "Upgrade your editor with the new style saving and updating feature. Save time by reusing styles assigned to blocks and automatically applying default styles to related blocks."
+msgstr "Aggiorna il tuo editor con la nuova funzionalità di salvataggio e aggiornamento degli stili. Risparmia tempo riutilizzando gli stili assegnati ai blocchi e applicando automaticamente gli stili predefiniti ai blocchi correlati."
+
+#: includes/pro_manager/extensions/Saved_Styles_Common.php:20
+msgid "Saved Styles"
+msgstr "Stili salvati"
+
+#: includes/pro_manager/extensions/Review_Extension.php:62
+msgid "Enable Pros/Cons"
+msgstr "Abilita pro/contro"
+
+#: includes/pro_manager/extensions/Review_Extension.php:56
+msgid "Graph"
+msgstr "Grafico"
+
+#: includes/pro_manager/extensions/Review_Extension.php:55
+msgid "Card"
+msgstr "Carta"
+
+#: includes/pro_manager/extensions/Review_Extension.php:54
+msgid "Basic"
+msgstr "Basico"
+
+#: includes/pro_manager/extensions/Review_Extension.php:38
+msgid "Visually compare numeric values and make your users do data-driven decisions with ease."
+msgstr "Confronta visivamente i valori numerici e fai in modo che i tuoi utenti prendano facilmente decisioni basate sui dati."
+
+#: includes/pro_manager/extensions/Review_Extension.php:37
+msgid "Pros/Cons Graph Layout"
+msgstr "Layout grafico pro/contro"
+
+#: includes/pro_manager/extensions/Review_Extension.php:33
+msgid "Include pros/cons tables for your users to make informed decisions by easily showcasing the advantages and disadvantages of any product or service."
+msgstr "Includi tabelle di pro e contro per consentire ai tuoi utenti di prendere decisioni informate, mostrando facilmente i vantaggi e gli svantaggi di qualsiasi prodotto o servizio."
+
+#: includes/pro_manager/extensions/Review_Extension.php:32
+#: includes/pro_manager/extensions/Review_Extension.php:70
+msgid "Pros/Cons"
+msgstr "Pro/contro"
+
+#: includes/pro_manager/extensions/Image_Slider_Extension.php:49
+msgid "Show image thumbnails"
+msgstr "Mostra miniature immagini"
+
+#: includes/pro_manager/extensions/Image_Slider_Extension.php:33
+msgid "Add thumbnails for effortless navigation through your image gallery."
+msgstr "Aggiungi le miniature per una navigazione agevole nella tua galleria di immagini."
+
+#: includes/pro_manager/extensions/Image_Slider_Extension.php:32
+msgid "Image Thumbnails"
+msgstr "Miniature immagini"
+
+#: includes/pro_manager/extensions/Expand_Extension.php:33
+msgid "Minimize and expand your content with a smooth, visually pleasing transition."
+msgstr "Riduci ed espandi il tuo contenuto con una transizione fluida e piacevole visivamente."
+
+#: includes/pro_manager/extensions/Expand_Extension.php:32
+#: includes/pro_manager/extensions/Expand_Extension.php:54
+msgid "Fade when minimized"
+msgstr "Dissolvi quando ridotto"
+
+#: includes/pro_manager/extensions/Divider_Extension.php:53
+msgid "Divider Icon"
+msgstr "Icona divisore"
+
+#: includes/pro_manager/extensions/Divider_Extension.php:33
+msgid "Add visually appealing icons to your divider elements and enhance user engagement."
+msgstr "Aggiungi icone visivamente accattivanti ai tuoi elementi divisori e migliora il coinvolgimento degli utenti."
+
+#: includes/pro_manager/extensions/Content_Toggle_Extension.php:68
+#: includes/pro_manager/extensions/Content_Toggle_Extension.php:74
+msgid "Search"
+msgstr "Cerca"
+
+#: includes/pro_manager/extensions/Content_Toggle_Extension.php:64
+msgid "Show search summary"
+msgstr "Mostra cerca riepilogo"
+
+#: includes/pro_manager/extensions/Content_Toggle_Extension.php:61
+msgid "Enable content search"
+msgstr "Abilita la ricerca di contenuti"
+
+#: includes/pro_manager/extensions/Content_Toggle_Extension.php:43
+msgid "Change the highlight color of search results to match your unique style."
+msgstr "Cambia il colore di evidenziazione dei risultati della ricerca per adattarlo al tuo stile unico."
+
+#: includes/pro_manager/extensions/Content_Toggle_Extension.php:38
+msgid "Determine the total number of search results for your users with just one glance."
+msgstr "Determina il numero totale di risultati di ricerca per i tuoi utenti con un solo sguardo."
+
+#: includes/pro_manager/extensions/Content_Toggle_Extension.php:37
+msgid "Search Summary"
+msgstr "Cerca riepilogo"
+
+#: includes/pro_manager/extensions/Content_Toggle_Extension.php:33
+msgid "Add a search bar feature that lets your users effortlessly search within your minimized content."
+msgstr "Aggiungi una barra di ricerca che consenta agli utenti di effettuare ricerche senza sforzo all'interno dei contenuti minimizzati."
+
+#: includes/pro_manager/extensions/Content_Toggle_Extension.php:32
+msgid "Content Search"
+msgstr "Cerca contenuto"
+
+#: includes/pro_manager/extensions/Buttons_Extension.php:53
+#: includes/pro_manager/extensions/Button_Extension.php:53
+#: includes/pro_manager/extensions/Single_Button_Extension.php:53
+msgid "Wipe"
+msgstr "Tendina"
+
+#: includes/pro_manager/extensions/Animation_Extension.php:53
+#: includes/pro_manager/extensions/Buttons_Extension.php:53
+#: includes/pro_manager/extensions/Button_Extension.php:53
+#: includes/pro_manager/extensions/Single_Button_Extension.php:53
+msgid "Fade"
+msgstr "Dissolvenza"
+
+#: includes/pro_manager/extensions/Buttons_Extension.php:52
+#: includes/pro_manager/extensions/Button_Extension.php:52
+#: includes/pro_manager/extensions/Single_Button_Extension.php:52
+msgid "Transition animation"
+msgstr "Animazione transizione"
+
+#: includes/pro_manager/extensions/Buttons_Extension.php:33
+#: includes/pro_manager/extensions/Button_Extension.php:33
+#: includes/pro_manager/extensions/Single_Button_Extension.php:33
+msgid "Add hover animation feature and increase engagement by adding visual cues that entice users to click on your call-to-action buttons."
+msgstr "Aggiungi la caratteristica dell'animazione hover e aumenta il coinvolgimento aggiungendo spunti visivi che invoglino gli utenti a fare clic sui tuoi pulsanti di invito all'azione."
+
+#: includes/pro_manager/extensions/Buttons_Extension.php:32
+#: includes/pro_manager/extensions/Button_Extension.php:32
+#: includes/pro_manager/extensions/Single_Button_Extension.php:32
+msgid "Transition Animation"
+msgstr "Animazione transizione"
+
+#: includes/common/factory/Rest_Response_Factory.php:67
+msgid "you are not authorized to use this REST endpoint"
+msgstr "non hai i permessi per usare questo endpoint REST"
+
+#: includes/common/factory/Rest_Response_Factory.php:46
+msgid "no message provided"
+msgstr "nessun messaggio fornito"
+
+#: includes/pro_manager/extensions/Review_Extension.php:64
+msgid "Layouts"
+msgstr "Layout"
+
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:77
+msgid "General"
+msgstr "Generale"
+
+#: admin/templates/help/help-page.php:53
+msgid "Combine Ultimate Blocks With GroundWP to Create Better Content and Better Website!"
+msgstr "Abbina Ultimate Blocks a GroundWP per creare contenuti migliori e un sito web migliore!"
+
+#: admin/templates/help/help-page.php:52
+msgid "Download GroundWP Free!"
+msgstr "Scarica gratis GroundWP!"
+
+#: admin/templates/help/help-page.php:49
+msgid "GroundWP is a free, lightweight WordPress theme centered around block patterns. Its blazing-fast speed and block-based design let you create stunning, responsive websites with ease. Experience seamless customization and top-notch performance with GroundWP!"
+msgstr "GroundWP è un tema WordPress gratuito e leggero incentrato sui modelli a blocchi. Grazie alla sua velocità incredibile e al design a blocchi, consente di creare siti web responsive e sorprendenti con estrema facilità. Scopri la personalizzazione senza soluzione di continuità e le prestazioni di alto livello con GroundWP!"
+
+#: admin/templates/help/help-page.php:48
+msgid "Get Our Free WordPress Block Theme"
+msgstr "Scarica il nostro tema di blocco WordPress gratuito"
+
+#: admin/templates/help/help-page.php:27
+msgid "Here's a short video showing how you can get started with Ultimate Blocks."
+msgstr "Ecco un breve video che mostra come iniziare a lavorare con Ultimate Blocks."
+
+#: admin/templates/help/help-page.php:26
+msgid "Say hello to a better online presence with Ultimate Blocks!"
+msgstr "Di' ciao a una migliore presenza online con Ultimate Blocks!"
+
+#: admin/templates/help/help-page.php:25
+msgid "Plus, it's SEO-friendly, so your content stays fresh and easy to find."
+msgstr "Inoltre, è SEO-friendly, in modo che i tuoi contenuti rimangano freschi e facili da trovare."
+
+#: admin/templates/help/help-page.php:24
+msgid "content toggle and buttons, you can create engaging and attractive content in no time."
+msgstr "commutatori e pulsanti di contenuto, è possibile creare contenuti accattivanti e coinvolgenti in pochissimo tempo."
+
+#: admin/templates/help/help-page.php:23
+msgid "With its cool customizable blocks, like table of contents, tabbed content,"
+msgstr "Con i suoi blocchi personalizzabili, come la tabella dei contenuti, il contenuto a schede,"
+
+#: admin/templates/help/help-page.php:22
+msgid "Ultimate Blocks plugin makes building content in WordPress a breeze!"
+msgstr "Il plugin Ultimate Blocks rende la costruzione di contenuti in WordPress un gioco da ragazzi!"
+
+#: includes/Ultimate_Blocks_Version_Control.php:104
+msgid "You are not authorized to use this ajax endpoint."
+msgstr "Non hai i permessi per usare questo endpoint ajax."
+
+#: includes/Ultimate_Blocks_Version_Control.php:93
+msgid "An error occurred during rollback operation, try again later."
+msgstr "Si è verificato un errore durante l'operazione di ripristino, riprova più tardi."
+
+#: includes/Ultimate_Blocks_Version_Control.php:66
+msgid "Target version is out of bounds."
+msgstr "La versione di destinazione è fuori limite."
+
+#: includes/Ultimate_Blocks_Version_Control.php:60
+msgid "You are on the same plugin version."
+msgstr "La versione del plugin è la stessa."
+
+#: includes/Ultimate_Blocks_Version_Control.php:53
+msgid "Invalid request body."
+msgstr "Contenuto richiesta non valido"
+
+#: admin/data/Block_Menu_Info_Data.php:94
+msgid "Add beautiful testimonials with the author's image."
+msgstr "Aggiungi bellissime testimonianze con le immagini degli autori."
+
+#: admin/data/Block_Menu_Info_Data.php:91
+msgid "Generates a table of contents from the headings automatically."
+msgstr "Genera automaticamente un indice dai titoli."
+
+#: admin/data/Block_Menu_Info_Data.php:88
+msgid "Add content in tabs to save space on your site."
+msgstr "Aggiungi contenuti in schede per risparmiare spazio sul tuo sito."
+
+#: admin/data/Block_Menu_Info_Data.php:85
+msgid "Make your list stylish and beautiful with icons."
+msgstr "Rendi il tuo elenco elegante e bello con le icone."
+
+#: admin/data/Block_Menu_Info_Data.php:79
+msgid "Show your content in Notification Box, Feature Box, Number Box, and Bordered Box."
+msgstr "Mostra i tuoi contenuti in caselle di notifica, caselle caratteristiche, caselle numeriche e caselle bordate."
+
+#: admin/data/Block_Menu_Info_Data.php:76
+msgid "Add simple star ratings with different numbers and colors."
+msgstr "Aggiungi semplici valutazioni a stelle con numeri e colori diversi."
+
+#: admin/data/Block_Menu_Info_Data.php:73
+msgid "Add social sharing icons or buttons to your posts/pages."
+msgstr "Aggiungi icone o pulsanti di condivisione social ai tuoi articoli/pagine."
+
+#: admin/data/Block_Menu_Info_Data.php:70
+msgid "Add schema-enabled review boxes."
+msgstr "Aggiungi caselle di revisione abilitate allo schema."
+
+#: admin/data/Block_Menu_Info_Data.php:67
+msgid "Add horizontal or circular progress bars with different criteria."
+msgstr "Aggiungi barre di avanzamento orizzontali o circolari con differenti criteri."
+
+#: admin/data/Block_Menu_Info_Data.php:64
+msgid "Show posts in a grid style with many customizations."
+msgstr "Mostra gli articoli in uno stile a griglia con molte personalizzazioni."
+
+#: admin/data/Block_Menu_Info_Data.php:58
+msgid "Add beautiful image sliders with different paginations and transitions."
+msgstr "Aggiungi bellissimi slider di immagini con diverse paginazioni e transizioni."
+
+#: admin/data/Block_Menu_Info_Data.php:55
+msgid "Add HowTo Schema to your tutorial posts."
+msgstr "Aggiungi lo schema come fare per i tuoi articoli di tutorial."
+
+#: admin/data/Block_Menu_Info_Data.php:52
+msgid "Add ShowMore/Show Less or ReadMore/ReadLess option."
+msgstr "Aggiungi l'opzione Mostra di più/Mostra di meno o Leggi di più/Leggi di meno."
+
+#: admin/data/Block_Menu_Info_Data.php:49
+msgid "Add dividers with different customizations."
+msgstr "Aggiungi divisori con differenti personalizzazioni."
+
+#: admin/data/Block_Menu_Info_Data.php:46
+msgid "Add a beautiful countdown timer with time expiration."
+msgstr "Aggiungi un piacevole time per conto alla rovescia con il tempo di scadenza."
+
+#: admin/data/Block_Menu_Info_Data.php:43
+msgid "Add content in accordions with FAQ Schema."
+msgstr "Aggiungi contenuti in fisarmoniche con schema FAQ."
+
+#: admin/data/Block_Menu_Info_Data.php:40
+msgid "Let your visitors filter the content based on different criteria."
+msgstr "Permetti ai tuoi visitatori di filtrare i contenuti in base a diversi criteri."
+
+#: admin/data/Block_Menu_Info_Data.php:37
+msgid "Add beautiful ‘Click to Tweet’ boxes with the username."
+msgstr "Aggiungi dei bei riquadri \"Fai clic per twittare\" con il nome utente."
+
+#: admin/data/Block_Menu_Info_Data.php:34
+msgid "Add conversion-optimized ‘Call to Action‘ boxes."
+msgstr "Aggiungere riquadri di invito all'azione ottimizzati per la conversione."
+
+#: admin/data/Block_Menu_Info_Data.php:31
+msgid "Add call-to-action buttons with advanced customizations."
+msgstr "Aggiungi pulsanti di richiesta di azione con personalizzazioni avanzate."
+
+#: admin/data/Block_Menu_Info_Data.php:28
+msgid "Add or embed videos with more customizations."
+msgstr "Aggiungi o incorpora i video con più personalizzazioni."
+
+#: admin/data/Block_Menu_Info_Data.php:25
+msgid "Add headings with different typography settings."
+msgstr "Aggiungi intestazioni con differenti impostazioni di tipografia."
+
+#: src/blocks/how-to/block.php:306
+msgid "No description provided"
+msgstr "Nessuna descrizione fornita"
+
+#: includes/pro_manager/extensions/Content_Toggle_Extension.php:42
+#: includes/pro_manager/extensions/Content_Toggle_Extension.php:69
+msgid "Highlight"
+msgstr "Evidenzia"
+
+#: includes/pro_manager/extensions/Buttons_Extension.php:57
+#: includes/pro_manager/extensions/Button_Extension.php:57
+#: includes/pro_manager/extensions/Single_Button_Extension.php:57
+msgid "Colors"
+msgstr "Colori"
+
+#: includes/pro_manager/extensions/Content_Toggle_Extension.php:76
+msgid "Style"
+msgstr "Stile"
+
+#: includes/pro_manager/extensions/Expand_Extension.php:64
+msgid "Scroll Settings"
+msgstr "Impostazioni di scorrimento"
+
+#: includes/pro_manager/extensions/Divider_Extension.php:32
+#: includes/pro_manager/extensions/Divider_Extension.php:49
+msgid "Icon"
+msgstr "Icona"
+
+#: src/defaults.php:1145
+msgid "Result"
+msgstr "Risultato"
+
+#: src/defaults.php:1101
+msgid "Total cost: "
+msgstr "Costo totale: "
+
+#: src/defaults.php:1089
+msgid "Total time: "
+msgstr "Tempo totale: "
+
+#: src/defaults.php:1078
+msgid "Duration"
+msgstr "Durata"
+
+#: src/defaults.php:1051
+msgid "Required supplies"
+msgstr "Forniture necessarie"
+
+#: src/defaults.php:1030
+msgid "Required tools"
+msgstr "Strumenti necessari"
+
+#: admin/class-ultimate-blocks-admin.php:647
+msgid "Hey,<br> I noticed that you have been using <strong>Ultimate Blocks Plugin</strong> for a while now - that’s awesome! Could you please do me a BIG favor and <b>give it a 5-star rating on WordPress</b>? Just to help us spread the word and boost our motivation. <br>~ Imtiaz Rayhan<br>~ Lead Developer, Ultimate Blocks."
+msgstr "Ehi, <br> ho notato che stai usando il plugin <strong>Ultimate Blocks</strong> da un po' di tempo - è fantastico! Potresti farmi un GRANDE favore e  <b>dargli una valutazione a 5 stelle su WordPress</b>? Soltanto per aiutarci a diffondere la notizia e ad aumentare la nostra motivazione. <br>~ Imtiaz Rayhan<br>~ Sviluppatore principale, Ultimate Blocks."
+
+#: src/blocks/post-grid/block.php:154
+msgid "Untitled"
+msgstr "Senza titolo"
+
+#: includes/pro_manager/extensions/Table_Of_Contents_Extension.php:64
+msgid "Additional Settings"
+msgstr "Impostazioni aggiuntive"
+
+#: admin/templates/help/help-page.php:70
+msgid "Join Our Facebook Group!"
+msgstr "Unisciti al nostro gruppo Facebook!"
+
+#: admin/templates/help/help-page.php:64
+msgid "Follow Us On Twitter!"
+msgstr "Seguici su Twitter!"
+
+#: admin/templates/help/help-page.php:60
+msgid "For upcoming plugins updates, news, tips and tutorials on Gutenberg in general you can stay connected with us."
+msgstr "Per i prossimi aggiornamenti dei plugin, le novità, i suggerimenti e le esercitazioni su Gutenberg in generale, puoi rimanere in contatto con noi."
+
+#: admin/templates/help/help-page.php:59
+msgid "Stay Connected with Us!"
+msgstr "Resta connesso con noi!"
+
+#: src/blocks/countdown/block.php:66 src/blocks/countdown/block.php:109
+msgid "Seconds"
+msgstr "Secondi"
+
+#: src/blocks/countdown/block.php:65 src/blocks/countdown/block.php:108
+msgid "Minutes"
+msgstr "Minuti"
+
+#: src/blocks/countdown/block.php:64 src/blocks/countdown/block.php:107
+msgid "Hours"
+msgstr "Ore"
+
+#: src/blocks/countdown/block.php:63 src/blocks/countdown/block.php:106
+msgid "Days"
+msgstr "Giorni"
+
+#: src/blocks/countdown/block.php:62 src/blocks/countdown/block.php:105
+msgid "Weeks"
+msgstr "Settimane"
+
+#: src/blocks/countdown/block.php:37
+msgid "seconds"
+msgstr "secondi"
+
+#: src/blocks/countdown/block.php:36
+msgid "minutes"
+msgstr "minuti"
+
+#: src/blocks/countdown/block.php:35
+msgid "hours"
+msgstr "ore"
+
+#: src/blocks/countdown/block.php:34
+msgid "days"
+msgstr "giorni"
+
+#: src/blocks/countdown/block.php:33
+msgid "weeks"
+msgstr "settimane"
+
+#. Description of the plugin
+#: ultimate-blocks.php
+msgid "Custom Blocks for Bloggers and Marketers. Create Better Content With Gutenberg."
+msgstr "Blocchi personalizzati per blogger e pubblicitari. Crea contenuti migliori con Gutenberg."
+
+#: includes/pro_manager/extensions/Expand_Extension.php:59
+msgid "Button"
+msgstr "Pulsante"
+
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:33
+#: includes/pro_manager/extensions/Tabbed_Content_Extension.php:80
+msgid "Call to Action"
+msgstr "Richiesta di azione"
+
+#: src/blocks/table-of-contents/block.php:172
+#: src/blocks/table-of-contents/block.php:195
+msgid "show"
+msgstr "mostra"
+
+#: src/blocks/table-of-contents/block.php:173
+#: src/blocks/table-of-contents/block.php:195
+msgid "hide"
+msgstr "nascondi"
+
+#: src/blocks/click-to-tweet/block.php:64
+msgid "Click to Tweet"
+msgstr "Fai clic per twittare"
+
+#: admin/templates/help/help-page.php:29
+msgid "More in the making..."
+msgstr "Altre cose in preparazione…"
+
+#: admin/templates/help/help-page.php:29
+msgid "22 awesome blocks."
+msgstr "22 fantastici blocchi"
+
+#: admin/templates/help/help-page.php:19
+msgid "Essential Collection of Blocks for Block Editor"
+msgstr "Collezione essenziale di blocchi per l'editor di blocchi"
+
+#: admin/templates/help/help-page.php:18
+msgid "Welcome to Ultimate Blocks!"
+msgstr "Benvenuto in Ultimate Blocks!"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: ultimate-blocks.php
+msgid "https://ultimateblocks.com/"
+msgstr "https://ultimateblocks.com/"
+
+#: admin/templates/help/help-page.php:39
+msgid "Learn More"
+msgstr "Approfondisci"
+
+#: admin/templates/help/help-page.php:33
+msgid "Manage the Blocks"
+msgstr "Gestisci i blocchi"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: ultimate-blocks.php includes/class-ultimate-blocks-category.php:64
+msgid "Ultimate Blocks"
+msgstr "Ultimate Blocks"

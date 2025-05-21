@@ -1,0 +1,12 @@
+= 1.0.3 =
+* Hero customizer setting issue fixed
+
+= 1.0.2 =
+* Style issue fixed
+* Improved Screenshot
+
+= 1.0.1 =
+* Dark mode issue fixed
+
+= 1.0.0 =
+* Initial release 🚀

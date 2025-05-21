@@ -1,0 +1,93 @@
+/*
+Theme Name: Bloglamp
+Author: Peregrine themes
+Template: bloghash
+Text Domain: bloglamp
+Description: Bloglamp is the perfect pick for bloggers seeking a lightweight, customizable theme that suits them just right. With plenty of options to adjust colors and typography, making your site unique is a breeze. It’s SEO friendly and fully compatible with WPML, Gutenberg, Elementor, WooCommerce, and supports translation and RTL. Live preview: https://demo.peregrine-themes.com/bloghash/bloglamp.
+Author URI: https://peregrine-themes.com/
+Theme URI: https://peregrine-themes.com/bloglamp/
+Version: 1.0.3
+Requires at least: 5.0
+Tested up to: 6.6
+Requires PHP: 5.6
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: two-columns, right-sidebar, left-sidebar, footer-widgets, blog, news, entertainment, custom-background, custom-menu, custom-logo, post-formats, sticky-post, editor-style, threaded-comments, translation-ready, custom-colors, featured-images, full-width-template, theme-options, flexible-header, wide-blocks
+*/
+
+/* Bloglamp */
+
+.bloglamp {
+    --bloghash-radius: 6px;
+}
+
+.bloglamp .bloghash-article.post.sticky {
+    outline: none;
+}
+
+.bloglamp.bloghash-layout__boxed-separated.page .bloghash-article.has-post-thumbnail:not(.format-quote),
+.bloglamp.bloghash-layout__boxed-separated.archive .bloghash-article.has-post-thumbnail:not(.format-quote),
+.bloglamp.bloghash-layout__boxed-separated.blog .bloghash-article.has-post-thumbnail:not(.format-quote),
+.bloglamp.bloghash-layout__boxed-separated.category .bloghash-article.has-post-thumbnail:not(.format-quote),
+.bloglamp.bloghash-layout__boxed-separated.search-results .bloghash-article.has-post-thumbnail:not(.format-quote) {
+    padding: 0;
+}
+
+.bloglamp.bloghash-blog-horizontal .bloghash-article.has-post-thumbnail:not(.format-quote) .bloghash-blog-entry-wrapper {
+    align-items: unset;
+}
+
+.bloglamp.bloghash-blog-horizontal .bloghash-article.has-post-thumbnail:not(.format-quote) .bloghash-blog-entry-wrapper.bloghash-thumb-right .entry-media,
+.bloglamp.bloghash-blog-horizontal .bloghash-article.has-post-thumbnail:not(.format-quote) .bloghash-blog-entry-wrapper.bloghash-thumb-left .entry-media {
+    margin: 0;
+}
+
+.bloglamp.bloghash-blog-horizontal .bloghash-article.has-post-thumbnail:not(.format-quote) .entry-media .entry-image-link,
+.bloglamp.bloghash-blog-horizontal .bloghash-article.has-post-thumbnail:not(.format-quote) .entry-media img {
+    height: 100%;
+    object-fit: cover;
+}
+
+.bloglamp.bloghash-blog-horizontal .bloghash-article.has-post-thumbnail:not(.format-quote) .bloghash-entry-content-wrapper {
+    padding: 3rem;
+}
+
+@media only screen and (min-width: 869px) {
+    .bloglamp .bloghash-article.has-post-thumbnail:not(.format-quote) .entry-media,
+    .bloglamp .bloghash-article .entry-media {
+        border-radius: var(--bloghash-radius) 0 0 var(--bloghash-radius);
+    }
+
+    .bloglamp.bloghash-blog-horizontal .col-xs-12:nth-child(even) .bloghash-article.has-post-thumbnail:not(.format-quote) .bloghash-blog-entry-wrapper .entry-media {
+        border-radius: 0 var(--bloghash-radius) var(--bloghash-radius) 0;
+    }
+}
+
+@media only screen and (max-width: 868px) {
+    .bloglamp .bloghash-article.has-post-thumbnail:not(.format-quote) .entry-media {
+        border-radius: var(--bloghash-radius) var(--bloghash-radius) 0 0;
+    }
+}
+
+.bloglamp #bloghash-header-inner {
+    box-shadow: 0 1px 6px rgba(190, 190, 190, 0.30);
+}
+
+.bloglamp .post-category .cat-links a {
+    --bloghash-radius: 0;
+    padding-right: 18px;
+    clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%);
+}
+
+.bloglamp .post-category .cat-links a:focus,
+.bloglamp.using-keyboard .post-category .cat-links a:hover {
+    transform: translateY(-2px);
+}
+
+.bloglamp .six-slider .bloghash-post-item.rounded {
+    border-radius: var(--bloghash-radius);
+}
+
+[data-darkmode=dark] .bloghash-post-item {
+    border: 1px solid rgba(190,190,190,0.30);
+}
